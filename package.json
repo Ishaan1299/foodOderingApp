@@ -1,0 +1,19 @@
+{
+  "name": "foododeringapp",
+  "version": "1.0.0",
+  "description": "this is a food delivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishaan1299/foodOrderingApp.git"
+  },
+  "author": "Ishaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishaan1299/foodOrderingApp/issues"
+  },
+  "homepage": "https://github.com/Ishaan1299/foodOrderingApp#readme"
+}
